@@ -1,0 +1,108 @@
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://www.yangfeiyue.cn/tv/欢笑剧场4k.png" group-title="数字频道",欢笑剧场
+http://ipipip/rtp/239.93.0.145:5140
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
+http://ipipip/rtp/239.93.42.42:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绚影4K
+http://ipipip/rtp/239.93.42.33:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",爱上4K
+http://ipipip/rtp/239.93.0.97:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",中录动漫4K
+http://ipipip/rtp/239.93.1.188:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",亲子趣学4K
+http://ipipip/rtp/239.93.1.191:5140
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视高清",广西卫视
+http://ipipip/rtp/239.93.42.46:5140
+#EXTINF:-1 tvg-name="SCTV2" tvg-logo="https://live.fanmingming.com/tv/SCTV2.png" group-title="卫视高清",SCTV2
+http://ipipip/rtp/239.93.1.102:5140
+#EXTINF:-1 tvg-name="SCTV3" tvg-logo="https://live.fanmingming.com/tv/SCTV3.png" group-title="卫视高清",SCTV3
+http://ipipip/rtp/239.93.1.101:5140
+#EXTINF:-1 tvg-name="sctv4" tvg-logo="https://live.fanmingming.com/tv/sctv4.png" group-title="卫视高清",SCTV4
+http://ipipip/rtp/239.93.0.47:5140
+#EXTINF:-1 tvg-name="sctv5" tvg-logo="https://live.fanmingming.com/tv/sctv5.png" group-title="卫视高清",SCTV5
+http://ipipip/rtp/239.93.0.166:5140
+#EXTINF:-1 tvg-name="sctv7" tvg-logo="https://live.fanmingming.com/tv/sctv7.png" group-title="卫视高清",SCTV7
+http://ipipip/rtp/239.93.0.219:5140
+#EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png" group-title="卫视高清",峨眉电影
+http://ipipip/rtp/239.93.0.252:5140
+#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="卫视高清",四川科教
+http://ipipip/rtp/239.93.42.44:5140
+#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="卫视高清",四川乡村
+http://ipipip/rtp/239.93.0.52:5140
+#EXTINF:-1 tvg-name="sctv5" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="卫视高清",高尔夫网球
+http://ipipip/rtp/239.93.1.54:5140
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视高清",康巴卫视
+http://ipipip/rtp/239.93.0.41:5140
+#EXTINF:-1 tvg-name="cdtv1" tvg-logo="https://live.fanmingming.com/tv/cdtv1.png" group-title="卫视高清",CDTV1
+http://ipipip/rtp/239.93.0.16:5140
+#EXTINF:-1 tvg-name="cdtv2" tvg-logo="https://live.fanmingming.com/tv/cdtv2.png" group-title="卫视高清",CDTV2
+http://ipipip/rtp/239.93.0.17:1239
+#EXTINF:-1 tvg-name="cdtv3" tvg-logo="https://live.fanmingming.com/tv/cdtv3.png" group-title="卫视高清",CDTV3
+http://ipipip/rtp/239.93.0.18:1238
+#EXTINF:-1 tvg-name="cdtv4" tvg-logo="https://live.fanmingming.com/tv/cdtv4.png" group-title="卫视高清",CDTV4
+http://ipipip/rtp/239.93.0.19:1250
+#EXTINF:-1 tvg-name="cdtv5" tvg-logo="https://live.fanmingming.com/tv/cdtv5.png" group-title="卫视高清",CDTV5
+http://ipipip/rtp/239.93.1.231:5140
+#EXTINF:-1 tvg-name="cdtv6" tvg-logo="https://live.fanmingming.com/tv/cdtv6.png" group-title="卫视高清",CDTV6
+http://ipipip/rtp/239.93.0.21:1251
+#EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv华语影院.png" group-title="本地高清",bestv华语影院
+http://ipipip/rtp/239.93.0.138:5140
+#EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv星光院线.png" group-title="本地高清",bestv星光院线
+http://ipipip/rtp/239.93.0.139:5140
+#EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv全球大片.png" group-title="本地高清",bestv全球大片
+http://ipipip/rtp/239.93.0.105:5140
+#EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv热门剧场.png" group-title="本地高清",bestv热门剧场
+http://ipipip/rtp/239.93.0.140:5140
+#EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv谍战剧场.png" group-title="本地高清",bestv谍战剧场
+http://ipipip/rtp/239.93.0.95:5140
+#EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv宝宝动画.png" group-title="本地高清",bestv宝宝动画
+http://ipipip/rtp/239.93.0.147:5140
+#EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv青春动漫.png" group-title="本地高清",bestv青春动漫
+http://ipipip/rtp/239.93.0.146:5140
+#EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv热门综艺.png" group-title="本地高清",bestv热门综艺
+http://ipipip/rtp/239.93.0.151:5140
+#EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv戏曲精选.png" group-title="本地高清",bestv戏曲精选
+http://ipipip/rtp/239.93.0.144:5140
+#EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv4K测试[5.1环绕声].png" group-title="本地高清",bestv4K测试[5.1环绕声]
+http://ipipip/rtp/239.93.42.75:5140
+#EXTINF:-1 tvg-name="电竞天堂" tvg-logo="https://live.fanmingming.com/tv/电竞天堂.png" group-title="本地高清",电竞天堂
+http://ipipip/rtp/239.93.1.135:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",蓉城先锋
+http://ipipip/rtp/239.93.0.91:2101
+#EXTINF:-1 tvg-name="IHOT爱怀旧" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱怀旧.png" group-title="电影",IHOT爱怀旧
+http://ipipip/rtp/239.93.42.21:5140
+#EXTINF:-1 tvg-name="IHOT爱喜剧" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱喜剧.png" group-title="电影",IHOT爱喜剧
+http://ipipip/rtp/239.93.42.9:5140
+#EXTINF:-1 tvg-name="IHOT爱奇谈" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png" group-title="电影",IHOT爱奇谈
+http://ipipip/rtp/239.93.42.22:5140
+#EXTINF:-1 tvg-name="IHOT爱科幻" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png" group-title="电影",IHOT爱科幻
+http://ipipip/rtp/239.93.42.10:5140
+#EXTINF:-1 tvg-name="IHOT爱院线" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱院线.png" group-title="电影",IHOT爱院线
+http://ipipip/rtp/239.93.42.11:5140
+#EXTINF:-1 tvg-name="IHOT爱谍战" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="电影",IHOT爱谍战 
+http://ipipip/rtp/239.93.42.14:5140
+#EXTINF:-1 tvg-name="IHOT爱经典" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱经典.png" group-title="电影",IHOT爱经典
+http://ipipip/rtp/239.93.42.13:5140
+#EXTINF:-1 tvg-name="IHOT爱悬疑" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱悬疑.png" group-title="电影",IHOT爱悬疑 
+http://ipipip/rtp/239.93.42.12:5140
+#EXTINF:-1 tvg-name="IHOT爱青春" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱青春.png" group-title="电影",IHOT爱青春
+http://ipipip/rtp/239.93.42.16:5140
+#EXTINF:-1 tvg-name="IHOT爱都市" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱都市.png" group-title="电影",IHOT爱都市
+http://ipipip/rtp/239.93.42.15:5140
+#EXTINF:-1 tvg-name="IHOT爱幼教" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱幼教.png" group-title="电影",IHOT爱幼教
+http://ipipip/rtp/239.93.42.17:5140
+#EXTINF:-1 tvg-name="IHOT爱玩具" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱玩具.png" group-title="电影",IHOT爱玩具
+http://ipipip/rtp/239.93.42.18:5140
+#EXTINF:-1 tvg-name="IHOT爱动漫" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="电影",IHOT爱动漫
+http://ipipip/rtp/239.93.42.23:5140
+#EXTINF:-1 tvg-name="IHOT爱电竞" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱电竞.png" group-title="电影",IHOT爱电竞
+http://ipipip/rtp/239.93.42.19:5140
+#EXTINF:-1 tvg-name="IHOT爱赛车" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="电影",IHOT爱赛车
+http://ipipip/rtp/239.93.42.20:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影院高清",爱宠宠物
+http://ipipip/rtp/239.93.42.32:5140
+#EXTINF:-1 tvg-name="生活时尚" tvg-id="" tvg-country="中国大陆地方台" tvg-language="国语" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="电影",生活时尚
+http://ipipip/rtp/239.93.42.29:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影院高清",少儿天地
+http://ipipip/rtp/239.93.42.34:5140
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="影院高清",求索纪录
+http://ipipip/rtp/239.93.42.24:5140

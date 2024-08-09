@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="OCN" tvg-name="OCN" tvg-logo="https://live.fanmingming.com/tv/OCN.png" group-title="韩国高清",OCN
+http://ipipip/udp/239.192.67.226:49220
+#EXTINF:-1 tvg-id="OCNMovies" tvg-name="OCNMovies" tvg-logo="https://live.fanmingming.com/tv/OCNMovies.png" group-title="韩国高清",OCNMovies
+http://ipipip/udp/239.192.67.227:49220
+#EXTINF:-1 tvg-id=OCNMovies2" tvg-name="OCNMovies2" tvg-logo="https://live.fanmingming.com/tv/OCNMovies2.png" group-title="韩国高清",OCNMovies2
+http://ipipip/udp/239.192.67.228:49220
+#EXTINF:-1 tvg-id="SCREEN" tvg-name="SCREEN" tvg-logo="https://live.fanmingming.com/tv/SCREEN.png" group-title="韩国高清",SCREEN
+http://ipipip/udp/239.192.67.229:49220
+#EXTINF:-1 tvg-id="MBC ON" tvg-name="MBC ON" tvg-logo="https://live.fanmingming.com/tv/MBC ON.png" group-title="韩国高清",MBC ON
+http://ipipip/udp/239.192.62.58:49220
+#EXTINF:-1 tvg-id=SBS F!L 4K UHD" tvg-name="SBS F!L 4K UHD" tvg-logo="https://live.fanmingming.com/tv/SBS F!L 4K UHD.png" group-title="韩国高清",SBS F!L 4K UHD
+http://ipipip/udp/239.192.81.65:49220
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-logo="https://live.fanmingming.com/tv/MBC.png" group-title="韩国高清",MBC
+http://ipipip/udp/239.192.67.101:49220
+#EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-logo="https://live.fanmingming.com/tv/SBS.png" group-title="韩国高清",SBS
+http://ipipip/udp/239.192.67.98:49220
+#EXTINF:-1 tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://live.fanmingming.com/tv/KBS1.png" group-title="韩国高清",KBS1
+http://ipipip/udp/239.192.67.100:49220
+#EXTINF:-1 tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://live.fanmingming.com/tv/KBS2.png" group-title="韩国高清",KBS2
+http://ipipip/udp/239.192.67.99:49220

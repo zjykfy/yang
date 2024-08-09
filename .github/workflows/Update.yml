@@ -1,0 +1,63 @@
+name: Update
+
+on:
+  schedule:
+    - cron: 01 */3 * * *
+  push:
+   branches:
+    - main
+  workflow_dispatch:  # 添加手动触发事件
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: GetTime
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
+    - name: Update
+      run: |
+        # 卫视源m3u
+        rm -f ipv6.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O ipv6.m3u
+        sed -i 's/其他频道/地方频道/' ipv6.m3u
+        sed -i '/^\s*$/d' ipv6.m3u
+
+        # 频道
+        # rm -f v.m3u && wget https://raw.githubusercontent.com/zjykfy/ykfy/main/p/v.m3u -O p/v.m3u
+
+        # 整合源
+        rm -f all.m3u && touch all.m3u
+        #cat p/GAT.m3u >> all.m3u
+        cat speedtest/txt/Tianjin_liantong.txt >> all.m3u
+        #cat speedtest/txt/Hunan_dianxin.txt >> all.m3u
+        cat speedtest/txt/Zhejiang_dianxin.txt >> all.m3u
+        cat speedtest/txt/Beijing_liantong.txt >> all.m3u
+        cat speedtest/txt/Shanghai_dianxin.txt >> all.m3u
+        cat speedtest/txt/Guangdong_dianxin.txt >> all.m3u
+        #cat speedtest/txt/Henan_dianxin.txt >> all.m3u
+        cat speedtest/txt/Henan_liantong.txt >> all.m3u
+        cat speedtest/txt/Sichuan_yidong.txt >> all.m3u
+        cat speedtest/txt/Sichuan_dianxin.txt >> all.m3u
+        cat speedtest/txt/Yinni_PT.txt >> all.m3u
+        cat speedtest/txt/Yuenan_FPT.txt >> all.m3u
+        cat speedtest/txt/KR_SK.txt >> all.m3u
+
+        rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+         echo "已于 $DATE 自动更新频道" > README.md
+
+    - name: Clean
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -am "$DATE"
+        git branch -D main
+        git branch -m main
+
+    - name: Push
+      run: git push -f origin main

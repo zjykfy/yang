@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://live.fanmingming.com/tv/AXN.png" group-title="卫视频道",AXN
+http://1.53.207.57:8882/udp/225.1.2.225:30120
+#EXTINF:-1 tvg-name="HBOHD" tvg-logo="https://live.fanmingming.com/tv/HBOHD.png" group-title="港澳台",HBOHD
+http://1.53.207.57:8882/udp/225.1.2.233:30120
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://live.fanmingming.com/tv/AXN.png" group-title="卫视频道",AXN
+http://42.114.42.162:2052/udp/225.1.2.225:30120
+#EXTINF:-1 tvg-name="HBOHD" tvg-logo="https://live.fanmingming.com/tv/HBOHD.png" group-title="港澳台",HBOHD
+http://42.114.42.162:2052/udp/225.1.2.233:30120
